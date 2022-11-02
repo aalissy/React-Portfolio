@@ -65,7 +65,7 @@ function App() {
           </header>
           <div style={{ borderBottom: "5px solid black" }}></div>
         </Container>
-        <Route exact path="/React-Portfolio">
+        <Route exact path="/">
           <Redirect to="/aboutme"></Redirect>
         </Route>
         <Route exact path="/aboutme">
