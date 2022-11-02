@@ -66,18 +66,18 @@ function App() {
           <div style={{ borderBottom: "5px solid black" }}></div>
         </Container>
         <Route exact path="/">
-          <Redirect to="/aboutme"></Redirect>
+          <Redirect to="/React-Portfolio/aboutme"></Redirect>
         </Route>
-        <Route exact path="/aboutme">
+        <Route exact path="/React-Portfolio/aboutme">
           <Aboutme />
         </Route>
-        <Route exact path="/portfolio">
+        <Route exact path="/React-Portfolio/portfolio">
           <Portfolio />
         </Route>
-        <Route exact path="/contact">
+        <Route exact path="/React-Portfolio/contact">
           <Contact />
         </Route>
-        <Route exact path="/resume">
+        <Route exact path="/React-Portfolio/resume">
           <Resume />
         </Route>
       </Router>
