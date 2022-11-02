@@ -1,6 +1,6 @@
 {
   "name": "00-practice-app",
-  "homepage": "http://aalissy.github.io/React-Portfolio/aboutme",
+  "homepage": "http://aalissy.github.io/React-Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
