@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.06f15d10.css",
+    "main.js": "/React-Portfolio/static/js/main.c42a22f2.js",
+    "static/js/787.12e7f510.chunk.js": "/React-Portfolio/static/js/787.12e7f510.chunk.js",
+    "static/media/Screen Shot 2022-09-26 at 9.23.51 PM.png": "/React-Portfolio/static/media/Screen Shot 2022-09-26 at 9.23.51 PM.59c4950c38832ed6737e.png",
+    "static/media/second.png": "/React-Portfolio/static/media/second.2e1d7b623e9de16e88d5.png",
+    "static/media/Screen Shot 2022-07-28 at 9.20.23 PM.png": "/React-Portfolio/static/media/Screen Shot 2022-07-28 at 9.20.23 PM.acafb007968a7d8ddb25.png",
+    "static/media/first.png": "/React-Portfolio/static/media/first.19f7cdaab16e1fc37d74.png",
+    "static/media/Screen Shot 2022-11-01 at 5.15.39 PM.png": "/React-Portfolio/static/media/Screen Shot 2022-11-01 at 5.15.39 PM.a8c3c9fdf60eac4ba477.png",
+    "static/media/third.png": "/React-Portfolio/static/media/third.91376c9ba550afce1b3a.png",
+    "static/media/fourth.png": "/React-Portfolio/static/media/fourth.1c5427247780152f9c1e.png",
+    "static/media/Business Resume.pdf": "/React-Portfolio/static/media/Business Resume.df88f08248403d13c40b.pdf",
+    "static/media/background.webp": "/React-Portfolio/static/media/background.a80be66fd4355717355d.webp",
+    "static/media/Lissy.jpeg": "/React-Portfolio/static/media/Lissy.0e53fb75962451d36a0a.jpeg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.06f15d10.css.map": "/React-Portfolio/static/css/main.06f15d10.css.map",
+    "main.c42a22f2.js.map": "/React-Portfolio/static/js/main.c42a22f2.js.map",
+    "787.12e7f510.chunk.js.map": "/React-Portfolio/static/js/787.12e7f510.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06f15d10.css",
+    "static/js/main.c42a22f2.js"
+  ]
+}
