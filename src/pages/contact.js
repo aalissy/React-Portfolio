@@ -53,7 +53,7 @@ export default function Contact() {
             </Form>
           </Row>
           <Row>
-            <a href="https://www.linkedin.com/in/lissy-gantos-4b17a2154/">
+            <a href="https://www.linkedin.com/in/lissy-gantos-4b17a2154/" target="_blank" rel="noreferrer noopener">
               LinkedIn
             </a>
           </Row>

@@ -86,23 +86,17 @@ function App() {
         <footer>
           <Row>
             <Col style={{ textAlign: "center" }} sm={4}>
-              <a className="link" href="https://github.com/aalissy">
+              <a className="link" href="https://github.com/aalissy" target="_blank" rel="noreferrer noopener">
                 GitHub
               </a>
             </Col>
             <Col style={{ textAlign: "center" }} sm={4}>
-              <a
-                className="link"
-                href="https://www.linkedin.com/in/lissy-gantos-4b17a2154/"
-              >
+              <a className="link" href="https://www.linkedin.com/in/lissy-gantos-4b17a2154/" target="_blank" rel="noreferrer noopener">
                 Linkedin
               </a>
             </Col>
             <Col style={{ textAlign: "center" }} sm={4}>
-              <a
-                className="link"
-                href="https://twitter.com/aalissy"
-              >
+              <a className="link" href="https://twitter.com/aalissy" target="_blank" rel="noreferrer noopener">
                 Twitter
               </a>
             </Col>

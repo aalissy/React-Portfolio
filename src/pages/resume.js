@@ -22,7 +22,7 @@ export default function Resume() {
     <div>
       <Container style={style.text} sm={3}>
         <h2>Downloadable PDF of my resume</h2>
-        <a href={resumedownload}>
+        <a href={resumedownload} target="_blank" rel="noreferrer noopener">
           <img style={style.myresume} src={myresume} alt="Alyssa's Resume" />
         </a>
       </Container>
