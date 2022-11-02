@@ -42,22 +42,22 @@ function App() {
             </Row>
             <Row>
               <Col style={style.name} sm={3}>
-                <Link className="link" to="/aboutme">
+                <Link className="link" to="/React-Portfolio/aboutme">
                   About me
                 </Link>
               </Col>
               <Col style={style.name} sm={3}>
-                <Link className="link" to="/portfolio">
+                <Link className="link" to="/React-Portfolio/portfolio">
                   Portfolio
                 </Link>
               </Col>
               <Col style={style.name} sm={3}>
-                <Link className="link" to="/contact">
+                <Link className="link" to="/React-Portfolio/contact">
                   Contact
                 </Link>
               </Col>
               <Col style={style.name} sm={3}>
-                <Link className="link" to="/resume">
+                <Link className="link" to="/React-Portfolio/resume">
                   Resume
                 </Link>
               </Col>
@@ -65,19 +65,19 @@ function App() {
           </header>
           <div style={{ borderBottom: "5px solid black" }}></div>
         </Container>
-        <Route exact path="/">
-          <Redirect to="/aboutme"></Redirect>
+        <Route exact path="/React-Portfolio">
+          <Redirect to="/React-Portfolio/aboutme"></Redirect>
         </Route>
-        <Route exact path="/aboutme">
+        <Route exact path="/React-Portfolio/aboutme">
           <Aboutme />
         </Route>
-        <Route exact path="/portfolio">
+        <Route exact path="/React-Portfolio/portfolio">
           <Portfolio />
         </Route>
-        <Route exact path="/contact">
+        <Route exact path="/React-Portfolio/contact">
           <Contact />
         </Route>
-        <Route exact path="/resume">
+        <Route exact path="/React-Portfolio/resume">
           <Resume />
         </Route>
       </Router>
